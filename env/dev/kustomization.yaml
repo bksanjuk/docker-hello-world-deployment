@@ -5,5 +5,5 @@ kind: Kustomization
 resources:
 - ../../base
 images:
-- name: arm7tdmi/node-hello-world
+- name: visualnet/node-hello-world
   newTag: "208"
